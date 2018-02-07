@@ -1,4 +1,4 @@
-# My personal site
+# Joe Tavin - personal site
 
 Template:  
 Solid State by [HTML5 UP](https://html5up.net/)
