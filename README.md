@@ -1,4 +1,4 @@
-# Joe Tavin - personal site
+## Personal Site
 
 Template:  
-Solid State by [HTML5 UP](https://html5up.net/)
+Aerial by [HTML5 UP](https://html5up.net/aerial)
